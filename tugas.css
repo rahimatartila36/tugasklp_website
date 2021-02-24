@@ -1,0 +1,11 @@
+.kotak {
+	width : 90% ; 
+	height: auto; 
+	margin: 0 -20px 0 30px;
+	background-color: yellow;
+}
+
+.profil {
+	width: 80%;
+background-color: blue;
+}
